@@ -50,9 +50,9 @@ Tools used:
 > Full project report (in English) is available in the provided PDF file.
 
 FINAL NOTES:
-- this is heavily impractical in real systems, especially for real-time control, but the purpose was to get keen with the Genetic Algorithms
-- despite questionable feasibility of this project, the highlights are on data analysis and application of Genetic Algorithm
-- this serves as an extension of my MPC project from the other repository
+- This method is **not intended for direct real-time implementation**, due to computational complexity and impracticality in embedded contexts.
+- The purpose of this project was to explore **evolutionary optimization techniques** and apply them within a control system context.
+- It serves as an analytical and exploratory extension of my [MPC project](https://github.com/leonardmiksa1/Model-Predictive-Control).
 
 Author:
 **Leonard Mikša**  
