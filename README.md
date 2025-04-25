@@ -20,8 +20,6 @@ Key Features:
 - Full MPC model and simulation built in MATLAB
 - Real-time visualization of convergence and fitness landscape
 
----
-
 ## Simulation and Optimization Results
 
 Manually tuned MPC before optimization:
@@ -44,18 +42,12 @@ The optimized MPC demonstrates superior performance:
 - Reduced steady-state error  
 - Smooth actuator behavior
 
----
-
 Tools used:
 - MATLAB (pure script-based, no toolboxes)
 - Custom-coded Genetic Algorithm
 - Quadratic programming via `quadprog` for MPC
 
----
-
 > Full project report (in English) is available in the provided PDF file.
-
----
 
 FINAL NOTES:
 - this is heavily impractical in real systems, especially for real-time control, but the purpose was to get keen with the Genetic Algorithms
