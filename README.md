@@ -57,6 +57,11 @@ Tools used:
 
 ---
 
+FINAL NOTES:
+- this is heavily impractical in real systems, especially for real-time control, but the purpose was to get keen with the Genetic Algorithms
+- despite questionable feasibility of this project, the highlights are on data analysis and application of Genetic Algorithm
+- this serves as an extension of my MPC project from the other repository
+
 Author:
 **Leonard Mikša**  
 MSc Electrical Engineering student  
