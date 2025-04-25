@@ -12,14 +12,11 @@ The fitness function balances reference tracking performance with rise time and 
 
 Key Features:
 - Custom Genetic Algorithm with:
+  - Custom fitness function design based on steady-state error, rise time, and prediction horizon penalty
   - Tournament selection
   - Arithmetic crossover
   - Adaptive Gaussian mutation
   - Early termination on stagnation
-- Custom fitness function design based on:
-  - Steady-state error
-  - Rise time
-  - Computational cost of horizon length (arbitrarily determined)
 - Full MPC model and simulation built in MATLAB
 - Real-time visualization of convergence and fitness landscape
 
