@@ -8,7 +8,7 @@ The optimization targets two key parameters:
 
 The fitness function balances reference tracking performance with rise time and control effort while penalizing impractical configurations (e.g., long prediction horizons).
 
-> This project was developed independently
+> This project was developed independently as part of the *Application of AI* college course
 
 Key Features:
 - Custom Genetic Algorithm with:
