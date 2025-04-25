@@ -47,7 +47,7 @@ Tools used:
 - Custom-coded Genetic Algorithm
 - Quadratic programming via `quadprog` for MPC
 
-> Full project report (in English) is available in the provided PDF file.
+> Full project report (in Croatian) is available in the provided PDF file.
 
 FINAL NOTES:
 - This method is **not intended for direct real-time implementation**, due to computational complexity and impracticality in embedded contexts.
