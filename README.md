@@ -46,15 +46,14 @@ The optimized MPC demonstrates superior performance:
 
 ---
 
-## Tools Used
-
+Tools used:
 - MATLAB (pure script-based, no toolboxes)
 - Custom-coded Genetic Algorithm
 - Quadratic programming via `quadprog` for MPC
 
 ---
 
-> Full project report available in [`/docs/final_report_GA_MPC_Leonard_Miksa.pdf`](docs/final_report_GA_MPC_Leonard_Miksa.pdf)
+> Full project report (in English) is available in the provided PDF file.
 
 ---
 
