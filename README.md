@@ -1,4 +1,4 @@
-# MPC-optimization-using-a-Genetic-Algorithm
+# MPC optimization using a Genetic Algorithm
 
 This project applies a Genetic Algorithm (GA) to optimize tuning parameters of a Model Predictive Controller (MPC) designed for a pneumatic artificial muscle actuator.
 
